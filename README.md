@@ -1,5 +1,5 @@
 # Pele-dashboard
-# Raw data and dashboard for Brazilian football legend Pele.
+# Raw data and dashboard used to generate insights for Brazilian football legend Pele's career.
 # Key insights:-
 # 1) Besides Cristiano Ronaldo, Lionel Messi and Pele are head and shoulders above the rest in terms of their individual contributions as players to football with 7 ballon d'ors each by France Football's revised winners.
 # 2) Pele is the 5th highest goalscorer in football history with 767 goals and also tied 5th in world cups with 12 goals at the world cup finals alone.
